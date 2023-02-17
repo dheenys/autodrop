@@ -1,3 +1,4 @@
+const { keep_alive } = require("./keep_alive");
 const Discord = require("discord.js");
 const config = require('./config');
 
