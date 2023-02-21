@@ -10,5 +10,5 @@ TOKEN="putTokenHere"
 
 Running the bot:
 ```
-node index.js
+node.
 ```
